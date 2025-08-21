@@ -5,6 +5,6 @@ Advanced Data Analytics <br>
 │<br>
 ├── 01 Regression Analysis/             # Notebooks, scripts and data for Regression Analysis projects <br>
 │<br>
-│── 02 Machine Learning/                # Notebooks, scripts and data for ML projects <br>
+├── 02 Machine Learning/                # Notebooks, scripts and data for ML projects <br>
 │<br>
-│── 03 Statistics Canada/               # Notebooks, scripts and data for Population Census projects
+├── 03 Statistics Canada/               # Notebooks, scripts and data for Population Census projects
