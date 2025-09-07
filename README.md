@@ -4,4 +4,4 @@ This is a repository for Data Analysis projects. Each folder has coding excercis
 Advanced Data Analytics <br>
 ├── 01 Regression Analysis/             # Notebooks, scripts and data for Regression Analysis projects <br>
 ├── 02 Machine Learning/                # Notebooks, scripts and data for ML projects <br>
-├── 03 Statistics Canada/               # Notebooks, scripts and data for Population Census projects
+├── 03 Spatial Analysis/               # Notebooks, scripts and data for Spatial Analysis projects
